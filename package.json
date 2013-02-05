@@ -1,0 +1,11 @@
+{
+    "name": "qp-external",
+    "version": "0.0.1",
+    "author": "Rasmus Erik",
+    "homepage": "http://github.com/rasmuserik/qp-external",
+    "description": "github mirror + package.json collection of external projects used by qp for easier installation via npm ",
+    "repositories": [{
+        "type": "git",
+        "url": "git@github.com:rasmuserik/qp-external.git"
+    }],
+}
