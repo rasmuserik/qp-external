@@ -1,4 +1,4 @@
-[![logo](https://ssl.solsort.com/github-solsort.png?qp-external)](https://ssl.solsort.com/github-solsort.html?qp-external)
+![logo](https://solsort.com/_logo.png)
 
 # qp-external
 
